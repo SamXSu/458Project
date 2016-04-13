@@ -1,2 +1,2 @@
 # 458Project
-https://travis-ci.org/SamXSu/458Project.svg?branch=master
+[![Build Status](https://travis-ci.org/SamXSu/458Project.svg?branch=master)](https://travis-ci.org/SamXSu/458Project)
